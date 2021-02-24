@@ -1,0 +1,15 @@
+{
+  "name": "vue-3-ssr-example-no-build",
+  "version": "1.0.0",
+  "description": "Vue 3 SSR example without a build",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "skirtle",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/server-renderer": "^3.0.5",
+    "express": "^4.17.1",
+    "vue": "^3.0.5"
+  }
+}
